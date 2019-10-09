@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "글조각들"
+title                    : "나를 담는 글들"
 title_separator          : "-"
 subtitle                 : "온라인 아카이빙" # site tagline that appears below site title in masthead
 name                     : "쭈로롱"
