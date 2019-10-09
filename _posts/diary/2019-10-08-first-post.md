@@ -1,7 +1,7 @@
 ---
 title: "Welcome to Jekyll!"
 date: 2019-10-08 - 2019-10-09
-categories: diaries
+categories: diary
 ---
 오래도록 꿈꿔왔던 나의 깃허브 홈페이지를 드디어 만들었다! (내일의 해가 밝아오는 새벽 다섯시의 나의 집중력)
 
