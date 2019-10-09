@@ -24,7 +24,7 @@ description              : "a private repository and an archive"
 url                      : "https://jjurong.github.io" # the base hostname & protocol for your site e.g. 
 baseurl                  : "" # the subpath of your site, e.g. 
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "images/IMG_4726.jpg"
+teaser                   : "https://raw.githubusercontent.com/jjurong/jjurong.github.io/master/images/IMG_4726.jpg"
 logo                     : ""
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
