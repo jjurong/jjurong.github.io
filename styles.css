@@ -14,10 +14,6 @@ p {
   width: 400px;
   margin: 60px auto;
   font: 20px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
-}
-
-p, form {
-  font-family: 'Nanum Gothic', serif;
   font-size:20px;
   ..
 }
