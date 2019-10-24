@@ -11,11 +11,11 @@ html {
   font-size: 18px;
 
   @include breakpoint($medium) {
-    font-size: 16px;
+    font-size: 18px;
   }
 
   @include breakpoint($large) {
-    font-size: 16px;
+    font-size: 18px;
   }
 
   @include breakpoint($x-large) {
@@ -28,7 +28,7 @@ html {
 
 /* Remove margin */
 
-body { margin: 0; }
+body { margin: 10; }
 
 /* Selected elements */
 
@@ -143,7 +143,7 @@ textarea {
 button,
 input {
   *overflow: visible; /* inner spacing ie IE6/7*/
-  line-height: 1.6; /* FF3/4 have !important on line-height in UA stylesheet*/
+  line-height: 1.8; /* FF3/4 have !important on line-height in UA stylesheet*/
 }
 
 button::-moz-focus-inner,
