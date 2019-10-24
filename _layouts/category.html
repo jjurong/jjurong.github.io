@@ -2,6 +2,7 @@
 layout: default
 ---
 <ul class="posts-list">
+  <h1>{{ page.title }}</h1>
   
   {% assign category = page.category | default: page.title %}
   {% for post in site.categories[category] %}
@@ -17,4 +18,4 @@ layout: default
     </li>
   {% endfor %}
   
-  </ul>
+</ul>
