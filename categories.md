@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Categories Archive
+title: Categories
 permalink: /categories/
 ---
 
