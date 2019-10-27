@@ -12,7 +12,7 @@
 p {
   display: block;
   width: 400px;
-  margin: 60px auto;
+  margin: 40px auto;
   font: 40px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
   font-size:40px;
   ..
