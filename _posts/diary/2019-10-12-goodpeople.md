@@ -2,6 +2,7 @@
 title: "191012토 감사한 사람들"
 date: 2019-10-12
 layout: single
+classes: wide
 categories: diary
 ---
 
