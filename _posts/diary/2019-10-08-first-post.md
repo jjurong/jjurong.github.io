@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Jekyll!"
+title: "시작"
 date: 2019-10-08 - 2019-10-09
 categories: diary
 ---
