@@ -11,6 +11,7 @@ categories: comments
 <https://worldin2019.economist.com/theyearofthevegan>
 
 <br>
+
 2019년이 끝나갈 무렵에 알게 된 사실: 이코노미스트가 <i>The World in 2019</i>에서 2019년을 '비건의 해'로 전망했다고 한다.  
 
 <br>
