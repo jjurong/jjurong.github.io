@@ -6,12 +6,11 @@ categories: comments
 ---
 
 <br>
-
-2019년이 끝나갈 무렵에 알게 된 사실: 이코노미스트가 <i>The World in 2019</i>에서 2019년을 '비건의 해'로 전망했다고 한다.  
+<br>
+<https://worldin2019.economist.com/theyearofthevegan>
 
 <br>
-
-<https://worldin2019.economist.com/theyearofthevegan>
+2019년이 끝나갈 무렵에 알게 된 사실: 이코노미스트가 <i>The World in 2019</i>에서 2019년을 '비건의 해'로 전망했다고 한다.  
 
 <br>
 
@@ -24,6 +23,7 @@ categories: comments
 ><sub><b id="f1"><sup>1</sup></b> 위 글에 따르면 비거니즘은 최근 밀레니얼의 공감을 획득하며 급격히 확산되었다. 따라서 가장 susceptible한 타깃이라고 생각한다.[↩](#a1)
 
 <br>
+***
 아무튼 결론은 -  
 
 <br>
