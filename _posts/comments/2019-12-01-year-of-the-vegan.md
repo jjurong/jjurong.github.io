@@ -24,7 +24,7 @@ categories: comments
 ><sub><b id="f1"><sup>1</sup></b> 위 글에 따르면 비거니즘은 최근 밀레니얼의 공감을 획득하며 급격히 확산되었다. 따라서 가장 susceptible한 타깃이라고 생각한다.[↩](#a1)
 
 <br>
-
+***
 ### 아무튼 결론은 -  
 
 <br>
